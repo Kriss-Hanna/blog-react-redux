@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "pseudo": "user42",
+      "likes": 44,
+      "id": "1"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet dolor sit amet",
+      "author": "Samia",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 16,
+      "id": "2"
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "author": "Denis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 107,
+      "id": "3"
+    },
+    {
+      "title": "Lxwc",
+      "author": "Patrice",
+      "content": "Lorem ipsum doIpsum?",
+      "likes": 0,
+      "id": "V0iV30h"
+    },
+    {
+      "title": "test",
+      "content": "test",
+      "author": "user42",
+      "likes": 0,
+      "id": "NVLXhwm"
+    },
+    {
+      "title": "ici he fais un test",
+      "content": "fsjfkfjsdf",
+      "author": "user42",
+      "likes": 0,
+      "id": "bWID4kK"
+    },
+    {
+      "title": "vv",
+      "author": "user42",
+      "content": "fv",
+      "likes": 15,
+      "id": "d_D-ToW"
+    },
+    {
+      "title": "salut les amis",
+      "author": "user42",
+      "content": "ca va ? bien ?",
+      "likes": 0,
+      "id": "Ok5eU0V"
+    },
+    {
+      "title": "Kriss",
+      "author": "user42",
+      "content": "Salut ça va ?",
+      "likes": 0,
+      "id": "w0YFsao"
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "user42",
+      "likes": 41,
+      "id": 1
+    }
+  ]
+}
